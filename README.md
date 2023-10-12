@@ -1,2 +1,2 @@
-# social-media-africa
-Africa's first social media
+# The Club
+An idea for a social media app for Africans
